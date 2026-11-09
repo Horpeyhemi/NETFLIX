@@ -65,6 +65,7 @@ This analysis provides an overview of Netflix's content catalogue, focusing on:
 - Genre distribution
 
 ### 2. Global Content Insights
+![image alt](https://github.com/Horpeyhemi/NETFLIX/blob/754e6b83f6f9524557e0ac7735508dd4238925e4/IMG_7581.png)
 This section explores Netflix's geographical content distribution.
 
 Key analyses include:
