@@ -77,6 +77,7 @@ Key analyses include:
 - Global content distribution patterns.
 
 ### 3. Content Growth & Trend Analysis
+![image alt](https://github.com/Horpeyhemi/NETFLIX/blob/c414d512c9872b29b094219db5575e01853f2485/IMG_7582.png)
 This analysis examines Netflix's content development and release patterns.
 
 Key analyses include:
