@@ -89,6 +89,7 @@ Key analyses include:
 - Comparison of Movies and TV Shows across release periods.
 
 ### 4. Audience & Content Category Intelligence
+![image alt](https://github.com/Horpeyhemi/NETFLIX/blob/9f24a5202ba8f1ddae9e0d8108bffa365f0958ec/IMG_7583.png)
 This section explores Netflix's content maturity ratings and category distribution.
 
 Key analyses include:
