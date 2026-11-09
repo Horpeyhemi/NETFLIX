@@ -52,7 +52,7 @@ The objectives of this project were to:
 | Power BI Service | Publishing and sharing the interactive dashboard |
 
 ## 🔍 Project Analysis
-[image
+![image alt](https://github.com/Horpeyhemi/NETFLIX/blob/8075452c2e642142d06f60f121e4b195ed19265b/IMG_7582.png) 
 
 ### 1. Netflix Content Overview
 This analysis provides an overview of Netflix's content catalogue, focusing on:
