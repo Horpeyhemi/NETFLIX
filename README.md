@@ -124,9 +124,7 @@ Charts, KPIs, and other visual elements help users explore Netflix's content cat
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](images/netflix-dashboard.png)
-
-*Replace the image path above with the actual dashboard screenshot stored in your repository.*
+![image alt](https://github.com/Horpeyhemi/NETFLIX/blob/8075452c2e642142d06f60f121e4b195ed19265b/IMG_7582.png) 
 
 ## 📌 Key Insights
 
@@ -145,13 +143,13 @@ The interactive features allow users to investigate these patterns dynamically a
 
 The interactive dashboard was published to Power BI Service to make it accessible for online exploration.
 
-🔗 **[View Interactive Netflix Dashboard on Power BI Service](PASTE-YOUR-POWER-BI-SERVICE-LINK-HERE)**
+🔗 **[View Interactive Netflix Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMGM1NmQyNzQtYzc2Ni00YWNmLTgxM2UtZjQ5ZmY1ZWFiMDVjIiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9)
 
 Users can explore the published dashboard, interact with available filters, navigate between pages, and use the Q&A feature.
 
 ## 💡 Skills Demonstrated
 
-- Data cleaning and preparation using Excel and Power Query.
+- Data cleaning and preparation using Power Query.
 - Data visualization and dashboard development using Power BI.
 - DAX measures and KPI development.
 - Data analysis and interpretation.
@@ -165,7 +163,7 @@ This project demonstrates how data cleaning, analytical measures, and interactiv
 
 By exploring content distribution, global presence, release trends, maturity ratings, and genres, the dashboard provides a structured approach to understanding Netflix's content offerings.
 
-The project also highlights my practical skills in **Excel, Power BI, DAX, data visualization, and business intelligence**, while demonstrating my ability to develop interactive dashboards that support data exploration and insight generation.
+The project also highlights my practical skills in **power query, Power BI, DAX, data visualization, and business intelligence**, while demonstrating my ability to develop interactive dashboards that support data exploration and insight generation.
 
 ---
 
@@ -173,7 +171,7 @@ The project also highlights my practical skills in **Excel, Power BI, DAX, data 
 
 **Rahman Azeezat Taiwo**
 
-Aspiring Data Analyst | Power BI | Excel | Data Visualization
+Entry level Data Analyst | Power BI | Excel | Data Visualization
 
 🔗 GitHub: [Horpeyhemi](https://github.com/Horpeyhemi)
 
