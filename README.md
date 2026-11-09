@@ -11,7 +11,7 @@ The project transforms raw data into meaningful business insights through data c
 | Total Records | 8,790 |
 | Total Columns | 10 |
 | Content Types | Movies and TV Shows |
-| Data Source | Kaggle |
+| Data Source | Auspify Technologies |
 | File Format | CSV |
 
 ### Dataset Features
